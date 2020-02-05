@@ -45,6 +45,7 @@
 [ссылка на интеллект-карту](New-Mind-Map.png)
 
 ссылка на интеллект-карту в виде QR-кода:
+
 <a href="http://qrcoder.ru" target="_blank"><img src="http://qrcoder.ru/code/?https%3A%2F%2Fgithub.com%2Filya-s-h%2FPractise-course-1st%2Fblob%2Fmaster%2FNew-Mind-Map.png&4&0" width="180" height="180" border="0" title="QR код"></a>
 
 ## 1.3 Аннотированный список (стандарты и спецификации)
@@ -88,4 +89,5 @@
 [ссылка на текстовый документ с упражнениями](Physical-exercise.docx)
 
 ссылка на текстовый документ с упражнениями в виде QR-кода:
+
 <a href="http://qrcoder.ru" target="_blank"><img src="http://qrcoder.ru/code/?https%3A%2F%2Fgithub.com%2Filya-s-h%2FPractise-course-1st%2Fblob%2Fmaster%2FPhysical-exercise.docx&4&0" width="180" height="180" border="0" title="QR код"></a>
