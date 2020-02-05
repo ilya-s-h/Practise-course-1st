@@ -83,3 +83,5 @@
 ## 1.4 Комплекс физических упражений для программиста
 
 [ссылка на текстовый документ с упражнениями](Physical-exercise.docx)
+
+<a href="http://qrcoder.ru" target="_blank"><img src="http://qrcoder.ru/code/?https%3A%2F%2Fgithub.com%2Filya-s-h%2FPractise-course-1st%2Fblob%2Fmaster%2FNew-Mind-Map.png&4&0" width="180" height="180" border="0" title="QR код"></a>
