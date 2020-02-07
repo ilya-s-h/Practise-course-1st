@@ -67,3 +67,11 @@
 * Ссылка на файл в виде QR-кода:
 
 <a href="http://qrcoder.ru" target="_blank"><img src="http://qrcoder.ru/code/?https%3A%2F%2Fgithub.com%2Fherzenuni%2Fzadanie-po-markdown-i-git-ilya-s-h%2Fblob%2Fmaster%2F%25D0%2593%25D0%25B5%25D1%2580%25D1%2586%25D0%25B5%25D0%25BD%25D0%25BE%25D0%25B2%25D1%2581%25D0%25BA%25D0%25B8%25D0%25B9%2520%25D1%2583%25D0%25BD%25D0%25B8%25D0%25B2%25D0%25B5%25D1%2580%25D1%2581%25D0%25B8%25D1%2582%25D0%25B5%25D1%2582.md&4&0" width="228" height="228" border="0" title="QR код"></a>
+
+## 1.5 Изучить и освоить гимнастику для глаз.
+
+[Ссылка на текстовый документ с упражнениями](%D0%A8%D1%83%D0%BC%D1%8F%D0%BA%D0%B8%D0%BD%20%D0%98.%D0%A1.%20%D0%98%D0%92%D0%A2(2)%20%D0%98%D0%A1%D0%A0%201.5.docx)
+
+* Ссылка на текстовый документ с упражнениями в виде QR-кода:
+
+<a href="http://qrcoder.ru" target="_blank"><img src="http://qrcoder.ru/code/?https%3A%2F%2Fgithub.com%2Filya-s-h%2FPractise-course-1st%2Fblob%2Fmaster%2F%25D0%25A8%25D1%2583%25D0%25BC%25D1%258F%25D0%25BA%25D0%25B8%25D0%25BD%2520%25D0%2598.%25D0%25A1.%2520%25D0%2598%25D0%2592%25D0%25A2%282%29%2520%25D0%2598%25D0%25A1%25D0%25A0%25201.5.docx&4&0" width="212" height="212" border="0" title="QR код"></a>
