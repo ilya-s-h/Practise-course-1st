@@ -91,3 +91,11 @@
 * Ссылка на текстовый документ QR-кода:
 
 <a href="http://qrcoder.ru" target="_blank"><img src="http://qrcoder.ru/code/?https%3A%2F%2Fgithub.com%2Filya-s-h%2FPractise-course-1st%2Ftree%2Fmaster%2F1.7&4&0" width="180" height="180" border="0" title="QR код"></a>
+
+## 1.8 Интерфейс и возможности работы с системой "Охраны труда"
+
+[Ссылка на текстовый документ](1.8)
+
+* Ссылка на текстовый документ QR-кода:
+
+<a href="http://qrcoder.ru" target="_blank"><img src="http://qrcoder.ru/code/?https%3A%2F%2Fgithub.com%2Filya-s-h%2FPractise-course-1st%2Ftree%2Fmaster%2F1.8&4&0" width="180" height="180" border="0" title="QR код"></a>
