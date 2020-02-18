@@ -31,9 +31,9 @@
 
 ### Аннотированный список печатных источников по Философским проблемам информатики:
 
-[ссылка на аннотированный список](1.1)
+[Ссылка на аннотированный список](1.1)
 
-ссылка на аннотированный список в виде QR-кода:
+* Ссылка на аннотированный список в виде QR-кода:
 
 <a href="http://qrcoder.ru" target="_blank"><img src="http://qrcoder.ru/code/?https%3A%2F%2Fgithub.com%2Filya-s-h%2FPractise-course-1st%2Ftree%2Fmaster%2F1.1&4&0" width="180" height="180" border="0" title="QR код"></a>
 
@@ -41,9 +41,9 @@
 
 Важные этапы в истории развития информатики и их социальные последствия:
 
-[ссылка на интеллект-карту](New-Mind-Map.png)
+[Ссылка на интеллект-карту](New-Mind-Map.png)
 
-ссылка на интеллект-карту в виде QR-кода:
+* Ссылка на интеллект-карту в виде QR-кода:
 
 <a href="http://qrcoder.ru" target="_blank"><img src="http://qrcoder.ru/code/?https%3A%2F%2Fgithub.com%2Filya-s-h%2FPractise-course-1st%2Fblob%2Fmaster%2FNew-Mind-Map.png&4&0" width="180" height="180" border="0" title="QR код"></a>
 
@@ -51,17 +51,17 @@
 
 Аннотированный список стандартов и спецификаций:
 
-[ссылка на аннотированный список](1.3)
+[Ссылка на аннотированный список](1.3)
 
-ссылка на интеллект-карту в виде QR-кода:
+* Ссылка на интеллект-карту в виде QR-кода:
 
 <a href="http://qrcoder.ru" target="_blank"><img src="http://qrcoder.ru/code/?https%3A%2F%2Fgithub.com%2Filya-s-h%2FPractise-course-1st%2Ftree%2Fmaster%2F1.3&4&0" width="180" height="180" border="0" title="QR код"></a>
 
 ## 1.4 Комплекс физических упражений для программиста
 
-[ссылка на текстовый документ с упражнениями](1.4)
+[Ссылка на текстовый документ с упражнениями](1.4)
 
-ссылка на текстовый документ с упражнениями в виде QR-кода:
+* Ссылка на текстовый документ с упражнениями в виде QR-кода:
 
 <a href="http://qrcoder.ru" target="_blank"><img src="http://qrcoder.ru/code/?https%3A%2F%2Fgithub.com%2Filya-s-h%2FPractise-course-1st%2Ftree%2Fmaster%2F1.4&4&0" width="180" height="180" border="0" title="QR код"></a>
 
